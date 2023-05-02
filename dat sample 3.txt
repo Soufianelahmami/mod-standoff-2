@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Advice mod 1","desc":"Weapons: The game features a wide range of weapons, including pistols, shotguns, rifles, and sniper rifles. Each weapon has its own unique characteristics, such as damage, ","photo":"https://iili.io/HSun9ou.jpg"},
+  {"title":"helper pack 2","desc":"Maps: The game features a variety of maps, each with its own unique layout and design. Some maps are open and spacious, while others are tight and confined, requiring a different playstyle.","photo":"https://iili.io/HSun3cQ.jpg"},
+  {"title":"how to use this app 3","desc":"Skins: Players can customize their characters and weapons with skins. Skins can be earned through gameplay or purchased in the in-game store.","photo":"https://iili.io/HSun2Kx.jpg"},
+  {"title":"Tips mod 4","desc":"Modes: MOD Standoff 2 offers various game modes, including deathmatch, capture the flag, and defuse the bomb. Each mode requires a different strategy and playstyle.","photo":"https://iili.io/HSnz5PV.jpg"},
+  {"title":"advance pack 5","desc":"Ranking System: The game has a ranking system that allows players to progress through the game and earn rewards.","photo":"https://iili.io/HSnzYKB.jpg"},
+  {"title":"helper mod 6","desc":"In-game Store: Players can purchase skins, weapons, and other items in the in-game store using in-game currency or real money.","photo":"https://iili.io/HSnzENa.jpg"},
+  {"title":"how to use this app 7","desc":"MOD Standoff 2 has become a popular game due to its fast-paced gameplay, intuitive controls, and variety of features. The game is easy to pick up and play, making it accessible to players of all skill levels.","photo":"https://iili.io/HSnz0HF.jpg"},
+  {"title":"tips pack 8","desc":"Additionally, the game's ranking system and rewards provide players with a sense of progression and accomplishment.","photo":"https://iili.io/HSunBN1.jpg"}
    ]
  
 }
